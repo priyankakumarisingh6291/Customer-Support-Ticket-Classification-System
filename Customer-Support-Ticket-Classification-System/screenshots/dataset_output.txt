@@ -1,0 +1,54 @@
+=== DATASET (first 10 rows) ===
+ticket_id                                             ticket_description customer_name       date          category priority      status
+     T001                      Replace the profile picture on my account         Arjun 2026-10-01    Account Update      Low        Open
+     T002         Reset password link has expired, please send a new one          Diya 2026-10-21       Login Issue     High        Open
+     T003                        I want to change the name on my profile         Rohan 2026-09-17    Account Update   Medium        Open
+     T004 Need analytics report of website visitors for the last 30 days         Sneha 2026-09-22            Report      Low        Open
+     T005    Cannot authenticate, the system says my account is disabled         Rohan 2026-10-10       Login Issue   Medium In Progress
+     T006                Response is slow while filtering the data table        Vikram 2026-10-15       Performance   Medium      Closed
+     T007    My date of birth is wrong in the profile, please correct it          Diya 2026-09-26    Account Update   Medium        Open
+     T008             The mobile app crashes on startup after the update         Rohan 2026-10-12 Application Error     High        Open
+     T009       I get a 500 internal server error when I submit the form         Aarav 2026-09-06 Application Error     High        Open
+     T010      Add another user to my account and update the permissions         Kabir 2026-10-25    Account Update      Low        Open
+
+=== INFO ===
+<class 'pandas.DataFrame'>
+RangeIndex: 198 entries, 0 to 197
+Data columns (total 7 columns):
+ #   Column              Non-Null Count  Dtype
+---  ------              --------------  -----
+ 0   ticket_id           198 non-null    str  
+ 1   ticket_description  197 non-null    str  
+ 2   customer_name       195 non-null    str  
+ 3   date                198 non-null    str  
+ 4   category            198 non-null    str  
+ 5   priority            194 non-null    str  
+ 6   status              195 non-null    str  
+dtypes: str(7)
+memory usage: 28.5 KB
+Rows before cleaning: 198
+
+Missing values per column:
+ ticket_id             0
+ticket_description    1
+customer_name         3
+date                  0
+category              0
+priority              4
+status                3
+dtype: int64
+
+Exact duplicate rows (all columns): 0
+Duplicates removed (after text cleaning): 6
+Rows after cleaning: 191
+
+=== CLEANED SAMPLE ===
+                                            ticket_description                                           clean_description          category
+                     Replace the profile picture on my account                   replace the profile picture on my account    Account Update
+        Reset password link has expired, please send a new one       reset password link has expired please send a new one       Login Issue
+                       I want to change the name on my profile                     i want to change the name on my profile    Account Update
+Need analytics report of website visitors for the last 30 days need analytics report of website visitors for the last days            Report
+   Cannot authenticate, the system says my account is disabled  cannot authenticate the system says my account is disabled       Login Issue
+               Response is slow while filtering the data table             response is slow while filtering the data table       Performance
+   My date of birth is wrong in the profile, please correct it  my date of birth is wrong in the profile please correct it    Account Update
+            The mobile app crashes on startup after the update          the mobile app crashes on startup after the update Application Error

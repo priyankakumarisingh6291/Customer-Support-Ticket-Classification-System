@@ -1,0 +1,12 @@
+Test Input                                                 Expected           Predicted          Conf.   Result
+----------------------------------------------------------------------------------------------------------------
+I am unable to login because my password is not working.   Login Issue        Login Issue         92.7%  PASS
+The app shows an error whenever I press save               Application Error  Application Error   89.8%  PASS
+Need a sales report for last week                          Report             Report              89.0%  PASS
+Kindly change my phone number registered with the account  Account Update     Account Update      56.4%  PASS
+Everything is running so slowly right now                  Performance        Performance         59.4%  PASS
+I was billed two times for my subscription this month      Billing            Billing             64.5%  PASS
+My account is locked and I cannot sign in                  Login Issue        Login Issue         84.8%  PASS
+Please send the revenue summary for the quarter            Report             Billing             38.4%  FAIL
+
+7/8 correct

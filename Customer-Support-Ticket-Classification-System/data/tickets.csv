@@ -1,0 +1,199 @@
+ticket_id,ticket_description,customer_name,date,category,priority,status
+T001,Replace the profile picture on my account,Arjun,2026-10-01,Account Update,Low,Open
+T002,"Reset password link has expired, please send a new one",Diya,2026-10-21,Login Issue,High,Open
+T003,I want to change the name on my profile,Rohan,2026-09-17,Account Update,Medium,Open
+T004,Need analytics report of website visitors for the last 30 days,Sneha,2026-09-22,Report,Low,Open
+T005,"Cannot authenticate, the system says my account is disabled",Rohan,2026-10-10,Login Issue,Medium,In Progress
+T006,Response is slow while filtering the data table,Vikram,2026-10-15,Performance,Medium,Closed
+T007,"My date of birth is wrong in the profile, please correct it",Diya,2026-09-26,Account Update,Medium,Open
+T008,The mobile app crashes on startup after the update,Rohan,2026-10-12,Application Error,High,Open
+T009,I get a 500 internal server error when I submit the form,Aarav,2026-09-06,Application Error,High,Open
+T010,Add another user to my account and update the permissions,Kabir,2026-10-25,Account Update,Low,Open
+T011,Please explain the tax amount shown on my invoice,Ananya,2026-09-22,Billing,Low,In Progress
+T012,"The sales report shows wrong totals, please check",Ishita,2026-10-25,Report,High,Closed
+T013,My payment is still showing as pending,Ananya,2026-10-14,Billing,Medium,Open
+T014,How can I update my company details in my account?,Arjun,2026-10-25,Account Update,Low,Open
+T015,Request for annual expense report in PDF format,Aarav,2026-10-05,Report,Medium,Closed
+T016,Need the quarterly revenue report for the finance team,Sneha,2026-09-25,Report,Medium,Open
+T017,Getting timeout error message when updating my project,Arjun,2026-09-21,Application Error,Medium,Open
+T018,How do I export the report to Excel?,Arjun,2026-10-11,Report,Low,Open
+T019,Unexpected error occurred while uploading a file,Ananya,2026-10-16,Application Error,Medium,Open
+T020,Generate sales report by product category,Diya,2026-10-27,Report,Low,
+T021,Payment page gives an unknown error and the transaction fails,Sneha,2026-10-19,Application Error,High,In Progress
+T022,I want to know why my bill increased this month,Arjun,2026-10-02,Billing,High,Closed
+T023,Money was debited twice for one transaction,Ishita,2026-10-26,Billing,Low,Open
+T024,"There is a bug, the edit screen shows an error and closes",Sneha,2026-10-05,Application Error,Medium,In Progress
+T025,The application is taking too long to load,Kabir,2026-09-03,Performance,Medium,Open
+T026,Need to update the nominee details on my profile,Diya,2026-10-10,Account Update,Low,Closed
+T027,Please change my registered phone number to a new one,Vikram,2026-09-05,Account Update,Low,Closed
+T028,Request for a GST invoice for last month's payment,Sneha,2026-09-16,Billing,Medium,Open
+T029,"Error while saving data, application gives error",Rohan,2026-10-11,Application Error,High,In Progress
+T030,Application freezes and then displays an unhandled exception,Arjun,2026-10-14,Application Error,,Open
+T031,Please correct the company name on my account,Rohan,2026-10-29,Account Update,Medium,Open
+T032,Everything is slow after the last update,Diya,2026-09-19,Performance,High,Open
+T033,Need to upgrade my account plan to premium,Aarav,2026-09-15,Account Update,High,In Progress
+T034,Change registered email id from the old one to the new one,Rohan,2026-10-18,Account Update,Medium,Closed
+T035,Password change link opens a blank page,Arjun,2026-09-06,Login Issue,Medium,Closed
+T036,Password reset is not working,Ishita,2026-09-28,Login Issue,High,Open
+T037,Request for annual expense report in PDF format,Ishita,2026-09-07,Report,Medium,
+T038,Can you share the weekly performance summary report?,Arjun,2026-10-19,Report,High,In Progress
+T039,I keep getting logged out immediately after signing in,Ananya,2026-10-11,Login Issue,High,Closed
+T040,Please update my GST number in my account details,Diya,2026-10-16,Account Update,Medium,Closed
+T041,Application performance has degraded a lot this week,Ananya,2026-10-26,Performance,Medium,Open
+T042,Application speed is too low compared to last month,Arjun,2026-09-07,Performance,High,Open
+T043,Can I get a summary report of last quarter's invoices?,Kabir,2026-09-29,Report,Medium,Open
+T044,Page crashes when I open the settings menu,Arjun,2026-09-11,Application Error,Medium,In Progress
+T045,Cannot access dashboard because I am not able to sign in,Vikram,2026-10-15,Login Issue,High,Open
+T046,Refund has not been received yet after 10 days,Vikram,2026-09-20,Billing,Medium,Open
+T047,Need to cancel my subscription and stop further charges,Ananya,2026-10-28,Billing,Low,Open
+T048,"Search results are very slow, it takes ages",Ananya,2026-09-02,Performance,Medium,Open
+T049,Please correct the company name on the invoice,Diya,2026-09-03,Billing,Medium,In Progress
+T050,The login screen says user does not exist but I registered last week,Ishita,2026-09-21,Login Issue,Medium,In Progress
+T051,I need a report of customer orders by region,Aarav,2026-10-21,Report,Medium,Open
+T052,"My registered mobile number is no longer active, please change it",Kabir,2026-09-04,Account Update,Medium,Closed
+T053,I forgot my password and cannot login,Meera,2026-09-19,Login Issue,Medium,Open
+T054,Please generate the profit and loss statement for October,Ishita,2026-09-23,Report,Medium,Closed
+T055,The application stopped working after I clicked submit,Arjun,2026-09-24,Application Error,High,Closed
+T056,The software is working very slowly on my laptop,Aarav,2026-09-28,Performance,Medium,In Progress
+T057,It takes forever to save a record,Diya,2026-09-10,Performance,Medium,Closed
+T058,Why is the website so slow today?,,2026-09-16,Performance,Medium,Closed
+T059,Getting a database connection error on every request,Ishita,2026-10-04,Application Error,High,Closed
+T060,"Charged in dollars instead of rupees, please fix the billing",Ishita,2026-09-27,Billing,High,In Progress
+T061,Error message 'something went wrong' appears on checkout,Aarav,2026-10-07,Application Error,High,Closed
+T062,Report template needs to include our company logo,Arjun,2026-10-14,Report,Low,In Progress
+T063,Sign in button does nothing after entering my password,Ishita,2026-10-21,Login Issue,High,Closed
+T064,Discount promised by the sales team is missing in the invoice,Aarav,2026-09-12,Billing,Medium,Open
+T065,Please provide report of pending payments,Rohan,2026-09-11,Report,Medium,Open
+T066,Kindly update the spelling of my name on my account,Ananya,2026-09-12,Account Update,Medium,Open
+T067,I see a pop up saying fatal error and the app closes,Vikram,2026-09-06,Application Error,Medium,In Progress
+T068,Add a column for discount in the sales report,Ananya,2026-10-10,Report,Medium,In Progress
+T069,Login fails with my correct password on mobile app,Arjun,2026-10-26,Login Issue,High,Open
+T070,Dashboard takes more than a minute to open,Rohan,2026-09-25,Performance,High,Open
+T071,"Cannot create a new record, system returns an error",Ishita,2026-10-10,Application Error,High,In Progress
+T072,I got error code 404 when opening my invoice,Kabir,2026-10-14,Application Error,High,Open
+T073,Data sync is taking hours instead of minutes,Ananya,2026-09-16,Performance,Low,Open
+T074,I did not receive a receipt after making the payment,Diya,2026-10-02,Billing,Low,Open
+T075,Unable to log in using Google sign in option,Ananya,2026-10-29,Login Issue,High,Open
+T076,The website is taking too long to respond,Meera,2026-10-08,Performance,Medium,Closed
+T077,Download button throws an error and nothing happens,Kabir,2026-09-10,Application Error,Medium,In Progress
+T078,Monthly sales report,Meera,2026-09-15,Report,Low,In Progress
+T079,I cannot log into the portal since this morning,Meera,2026-09-30,Login Issue,High,In Progress
+T080,Need to update my billing address,Diya,2026-10-11,Account Update,Low,Closed
+T081,Unable to find where to run the monthly billing report,Rohan,2026-09-17,Report,Medium,Closed
+T082,My credentials are not working after the latest update,Meera,2026-09-30,Login Issue,Medium,Open
+T083,The mobile app is sluggish and takes time to start,Kabir,2026-09-17,Performance,Medium,Open
+T084,Want to see a report comparing this year with last year,Ananya,2026-10-13,Report,Medium,Open
+T085,Report data does not match what I see on the screen,Arjun,2026-09-01,Report,High,In Progress
+T086,The app is lagging badly when I scroll through the list,Kabir,2026-10-28,Performance,Low,Closed
+T087,System lag is affecting our daily work,Vikram,2026-10-22,Performance,,In Progress
+T088,There is an extra charge on my monthly bill,Aarav,2026-09-30,Billing,High,Open
+T089,Login page keeps redirecting me back to the sign in screen,Ananya,2026-10-28,Login Issue,Medium,In Progress
+T090,Report export to CSV has wrong date format,Diya,2026-09-19,Report,Medium,Open
+T091,Request to update the department name on my account,Meera,2026-10-14,Account Update,Medium,Closed
+T092,Please send me the stock levels report for all warehouses,Arjun,2026-10-05,Report,Low,Open
+T093,"Forgot username, how do I recover it?",Meera,2026-09-11,Login Issue,Medium,Closed
+T094,"I moved to a new city, please update my address",Diya,2026-09-05,Account Update,Low,In Progress
+T095,System is extremely slow and keeps hanging,Kabir,2026-09-29,Performance,Medium,Closed
+T096,"Need help recovering access to my account, forgot the password",Vikram,2026-10-31,Login Issue,High,Open
+T097,How do I change the language and time zone on my account?,Aarav,2026-09-23,Account Update,Medium,Open
+T098,Invoice shows wrong billing address,Vikram,2026-10-08,Billing,High,Closed
+T099,"Overcharged this month, please check my billing",Ananya,2026-09-20,Billing,Medium,Open
+T100,Pages take too long to load since the morning,Kabir,2026-10-11,Performance,High,Closed
+T101,Requesting a credit note for the wrong invoice,Aarav,2026-09-28,Billing,High,In Progress
+T102,Very high latency when I use the application from the office network,Sneha,2026-10-15,Performance,High,Closed
+T103,Want to change the notification preferences on my account,Vikram,2026-09-17,Account Update,Medium,Closed
+T104,Getting 'session expired' every time I try to log in,Meera,2026-09-30,Login Issue,Medium,In Progress
+T105,I am locked out of my profile and need help to sign in,Ishita,2026-10-25,Login Issue,Medium,Open
+T106,I want to change my account username,Ananya,2026-09-20,Account Update,Medium,In Progress
+T107,Video streaming inside the app buffers continuously,Ananya,2026-09-13,Performance,High,Closed
+T108,Looking for the audit report of user activities,Aarav,2026-09-25,Report,Low,Open
+T109,Update my shipping address for future orders,Sneha,2026-10-25,Account Update,Medium,Closed
+T110,Please transfer the account ownership to my colleague,Arjun,2026-10-01,Account Update,Medium,In Progress
+T111,Please send me a copy of my last invoice,Vikram,2026-09-07,Billing,Low,Closed
+T112,Opening any module takes a really long time,Rohan,2026-09-16,Performance,Medium,In Progress
+T113,The invoice amount is higher than what was agreed,Arjun,2026-09-25,Billing,Low,Closed
+T114,Need analytics report of website visitors for the last 30 days,Ananya,2026-10-07,Report,Low,Open
+T115,"Page keeps loading and loading, performance is terrible",Ananya,2026-09-23,Performance,High,Open
+T116,Why was I billed for a plan I did not choose?,Diya,2026-10-07,Billing,Low,Closed
+T117,I want a refund for the payment I made yesterday,Aarav,2026-09-19,Billing,High,Closed
+T118,The system becomes slow during peak hours,Ishita,2026-10-15,Performance,High,Open
+T119,Unexpected deduction from my account for the premium plan,Sneha,2026-09-19,Billing,High,Closed
+T120,"Change my email address, the old one is not in use anymore",Rohan,2026-09-02,Account Update,,In Progress
+T121,The report is not generating for the selected date range,Arjun,2026-10-24,Report,Medium,Open
+T122,Verification code is not received on my phone while logging in,Vikram,2026-10-13,Login Issue,Low,Open
+T123,Request a copy of the compliance report,Aarav,2026-09-26,Report,Medium,In Progress
+T124,How can I change my payment method to a different card?,Vikram,2026-09-18,Billing,High,Closed
+T125,Please help me generate my monthly sales report,Kabir,2026-09-01,Report,Low,Closed
+T126,I was charged twice for the same subscription,Diya,2026-10-07,Billing,Low,Closed
+T127,Uploading files is painfully slow,Sneha,2026-10-26,Performance,Medium,Closed
+T128,"Unable to sign in, it says invalid username or password",Diya,2026-10-14,Login Issue,Medium,Closed
+T129,The page shows a blank white screen with an exception,Ananya,2026-10-20,Application Error,Medium,Open
+T130,I need a report on employee leave balances,Diya,2026-10-18,Report,High,In Progress
+T131,Attachment upload fails with an error message,Rohan,2026-09-04,Application Error,Medium,Open
+T132,Requesting a detailed report on product returns,Ananya,2026-10-29,Report,Medium,Closed
+T133,Auto renewal charged me even though I cancelled,Arjun,2026-10-09,Billing,Low,Open
+T134,I changed my password yesterday but the new one is rejected at login,Vikram,2026-10-18,Login Issue,High,In Progress
+T135,My account got locked after too many failed attempts,Arjun,2026-10-02,Login Issue,Medium,Open
+T136,Payment failed but the amount was deducted from my bank,Kabir,2026-10-24,Billing,Medium,Open
+T137,I want to download the attendance report for last month,Ananya,2026-10-28,Report,Low,Closed
+T138,I need to change my registered mobile number,Ananya,2026-10-28,Account Update,Medium,Closed
+T139,Subscription fee was taken after the trial ended without notice,Sneha,2026-09-19,Billing,Medium,Closed
+T140,The downloaded report is missing some rows,Ananya,2026-10-20,Report,Medium,In Progress
+T141,I need to edit my mailing address in the profile,Vikram,2026-10-22,Account Update,Medium,In Progress
+T142,Typing in the form fields is delayed and laggy,Rohan,2026-09-15,Performance,High,Closed
+T143,"Need to pay my pending dues, send me the payment link",Kabir,2026-10-09,Billing,Medium,Open
+T144,I can't login to the application,Sneha,2026-10-22,Login Issue,Medium,In Progress
+T145,The app is slow and unresponsive,Ishita,2026-09-23,Performance,Medium,Open
+T146,Application error: failed to load module,Vikram,2026-09-15,Application Error,Low,Closed
+T147,The app closed suddenly and my data was not saved,Rohan,2026-10-11,Application Error,High,Open
+T148,The app hangs for a long time when I open large files,Diya,2026-09-13,Performance,High,Open
+T149,Our team is facing slowness in the system since Monday,Arjun,2026-10-10,Performance,Low,In Progress
+T150,"Account locked, please reset my password urgently",Kabir,2026-09-17,Login Issue,High,Closed
+T151,A script error appears on the home page every time it loads,Meera,2026-10-14,Application Error,High,Open
+T152,"Update my contact details, my number has changed",Vikram,2026-10-19,Account Update,High,Open
+T153,My credit card was charged but the order is not confirmed,Arjun,2026-10-17,Billing,High,Closed
+T154,Want to see a report comparing this year with last year,Aarav,2026-10-20,Report,Medium,Open
+T155,I would like to close my account and delete my data,Arjun,2026-10-13,Account Update,Medium,Closed
+T156,Please modify the contact person for our account,Arjun,2026-10-14,Account Update,Low,Closed
+T157,Loading time of the home page is very high,Ishita,2026-10-24,Performance,Medium,Open
+T158,Error 503 service unavailable when I try to open the application,Ishita,2026-09-09,Application Error,Low,Closed
+T159,Slow response time while opening reports page,Ananya,2026-10-11,Performance,High,In Progress
+T160,Captcha on the login page keeps failing,Rohan,2026-09-07,Login Issue,Medium,Open
+T161,Could you prepare the customer feedback report for November?,Ananya,2026-10-28,Report,Medium,In Progress
+T162,Submitting the form fails with a validation error even though data is correct,Vikram,2026-10-11,Application Error,High,Open
+T163,Delete option gives an exception and the record stays,Ananya,2026-10-12,Application Error,High,Closed
+T164,The scheduled report was not delivered this week,Meera,2026-09-03,Report,Low,Closed
+T165,LOGIN FAILS WITH MY CORRECT PASSWORD ON MOBILE APP,Meera,2026-09-20,Login Issue,High,Open
+T166,Need a custom report of all closed tickets this year,Vikram,2026-10-21,Report,Medium,In Progress
+T167,Password reset email is not arriving in my inbox,Vikram,2026-09-29,Login Issue,High,Open
+T168,App crashes every time I click on the save button,Kabir,2026-09-03,Application Error,High,Open
+T169,"Please unlock my user id, I am unable to log in",Ananya,2026-10-08,Login Issue,Medium,Closed
+T170,Please link my new bank account to my profile,Meera,2026-09-24,Account Update,Medium,Closed
+T171,The OTP for two factor authentication never comes,Sneha,2026-10-17,Login Issue,High,Open
+T172,Need a dashboard report showing team productivity,Sneha,2026-09-09,Report,Medium,Open
+T173,,Ishita,2026-09-06,Login Issue,High,In Progress
+T174,I need a duplicate bill for my records,,2026-10-29,Billing,Low,Open
+T175,Please remove my old phone number from the account,Sneha,2026-09-19,Account Update,Medium,Closed
+T176,System shows 'unable to process request' message,Kabir,2026-09-21,Application Error,Low,In Progress
+T177,The export function crashes the application,Aarav,2026-10-18,Application Error,High,Closed
+T178,Cancel my order and refund the money to my card,Meera,2026-09-27,Billing,Medium,Closed
+T179,Application throws a null pointer error on the orders page,Ananya,2026-09-12,Application Error,Low,In Progress
+T180,The application is very slow today,Kabir,2026-09-13,Performance,High,Open
+T181,Screen freezes for a few seconds on every click,Kabir,2026-09-09,Performance,High,In Progress
+T182,Please schedule a daily inventory report to my email,Rohan,2026-10-21,Report,Medium,Closed
+T183,The application displays error code 1024 randomly,Ananya,2026-10-05,Application Error,High,Open
+T184,The application is showing an error while saving data,Aarav,2026-10-27,Application Error,Medium,Closed
+T185,I want to update my PAN details in my profile,Rohan,2026-09-24,Account Update,Medium,Closed
+T186,Single sign on is failing for my company email,,2026-10-04,Login Issue,High,Open
+T187,Please resend the payment confirmation email,Ishita,2026-10-03,Billing,Medium,Open
+T188,Please apply the discount coupon to my last bill,Meera,2026-10-29,Billing,High,Closed
+T189,"The portal is crawling, please look into the speed issue",Diya,2026-09-18,Performance,High,Closed
+T190,Need the billing statement for the last six months,Ananya,2026-10-24,Billing,Medium,In Progress
+T191,Please update my email address on the account,Diya,2026-09-11,Account Update,Medium,Closed
+T192,I would like to add a secondary email to my account,Vikram,2026-09-17,Account Update,,Open
+T193,"NEED HELP RECOVERING ACCESS TO MY ACCOUNT, FORGOT THE PASSWORD",Ananya,2026-10-29,Login Issue,High,Open
+T194,Security question answer not accepted when resetting password,Aarav,2026-10-23,Login Issue,High,
+T195,Data is not getting saved and an error appears on the screen,Rohan,2026-10-31,Application Error,High,In Progress
+T196,Two step verification code is invalid every time,Kabir,2026-10-01,Login Issue,Low,In Progress
+T197,  I cannot log into the portal since this morning  ,Rohan,2026-10-22,Login Issue,High,In Progress
+T198,"Bug in the search feature, it returns an error instead of results",Diya,2026-09-19,Application Error,Low,In Progress
